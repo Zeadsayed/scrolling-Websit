@@ -1,6 +1,6 @@
 # scrolling-Websit
-=> HTML 
-=> CSS 
-=> Javascript 
-=> Bootstrap 
-=> Jquery 
+  => HTML  
+  => CSS  
+  => Javascript  
+  => Bootstrap  
+  => Jquery  
